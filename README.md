@@ -20,7 +20,7 @@ You can then do one of the following.
 - Use your device:
     - Scan the QR Code using the Expo Client app on your physical device - [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) or [iOS](https://itunes.apple.com/app/apple-store/id982107779?ct=www&mt=8)
 - Use the [Expo XDE](https://expo.io/tools) to run the application on an Android or iPhone simulator.
----
+
 ### Built with:
 
 This is a [React Native](https://facebook.github.io/react-native/) mobile app, it was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app), using [Expo](https://expo.io/) and it utilizes:
@@ -31,6 +31,6 @@ This is a [React Native](https://facebook.github.io/react-native/) mobile app, i
 - [AsyncStorage](https://facebook.github.io/react-native/docs/asyncstorage#docsNav) for maintaining app changes
 - [Expo Notifications](https://docs.expo.io/versions/latest/sdk/notifications) to set reminders to use the app daily
 
-### Resources
+### Credits
 
-- The logo image is from [favpng.com](https://favpng.com/)
+- The logo image was adapted from [First Grade Mathematics Flashcards](https://favpng.com/png_view/talking-tom-bubble-shooter-mod-grade-1-math-flashcards-full-mathematics-first-grade-math-multiplication-android-png/W9hpExUN0)
