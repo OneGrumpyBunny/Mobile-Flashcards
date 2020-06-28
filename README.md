@@ -1,9 +1,9 @@
 # Mobile Flashcards App
 
-This app was built as a project for the [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019).
+This app was built as the final project submission for the Udacity React Nanodegree Program.
 It is a mobile application that allows users to study collections of flashcards. The app will allow users to create different categories of flashcards called "decks", add flashcards/questions to those decks, then take quizzes on those decks.
 
-It was designed for Android, despite the fact that some components could also be used on IOS.
+It was designed for Android and tested on Pixel (emulator) and Samsung Galaxy (physical device). Most components will also work on IOS.
 
 ## Installation
 
